@@ -1,6 +1,6 @@
 # Capsule_sentiment_analysis
 
-bstract—Text classification systems based on contextual embeddings are not viable options for many of the low resource languages. On the other hand, recently introduced capsule networks
+Abstract—Text classification systems based on contextual embeddings are not viable options for many of the low resource languages. On the other hand, recently introduced capsule networks
 have shown performance in par with these text classification
 models. Thus, they could be considered as a viable alternative for
 text classification for languages that do not have pre-trained contextual embedding models. However, current capsule networks
